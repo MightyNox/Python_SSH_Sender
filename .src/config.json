@@ -1,0 +1,8 @@
+{"local_folder": "Path to the local folder (example: ../resources/)",
+ "remote_folder": "Path to the remote folder (example: /user/remote)",
+ "server_address": "address of the server (example: localhost)",
+ "port": 22,
+ "username": "user",
+ "mode": "select overwrite|update|add_non_existing",
+ "ignore" :["pdf"]
+}
